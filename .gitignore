@@ -23,6 +23,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/
+mvnw.cmd
+mvnw
 
 ##############################
 ## Gradle
