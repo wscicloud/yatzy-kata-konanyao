@@ -2,6 +2,9 @@ package com.yatzy.kata;
 
 import java.util.List;
 
+/**
+ * Cette classe permet de calculer le score.
+ */
 public class YatzyScore {
 
 	public static int chance(Roll roll) {

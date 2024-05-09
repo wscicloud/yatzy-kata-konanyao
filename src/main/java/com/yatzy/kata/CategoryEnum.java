@@ -2,6 +2,9 @@ package com.yatzy.kata;
 
 import java.util.function.Function;
 
+/**
+ * Cette enumeration permet de definir des catégories.
+ */
 public enum CategoryEnum {
 	CHANGE(YatzyScore::chance),
 	YATZY(YatzyScore::yatzy),

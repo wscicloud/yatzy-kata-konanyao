@@ -10,6 +10,9 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * Cette classe représente les roulés de dé et ses opérations associées.
+ */
 public class Roll {
 
 	private final List<Integer> dices;
